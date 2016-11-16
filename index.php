@@ -428,6 +428,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="news-original">
 		<div class="container">
 			<div class="agileinfo_news_original_grids">
+                            
+                            <!-- 
+                            
 				<div class="col-md-4 agileinfo_news_original_grids_left">
 					<div class="agileits_newsletter">
 						<h3>subscribe to our newsletter</h3>
@@ -1021,6 +1024,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 				</div>
+                            
+                                    -->
+                                    
+                                    
+   <!-- CORTE ENTRE DIVS -->                                 
+                                    
+                                    
+                                    <!--
+                            
 				<div class="col-md-5 agileinfo_news_original_grids_left1">
 					<div class="w3l_news_board">
 						<h2><i class="fa fa-file-text-o" aria-hidden="true"></i>Newsboard</h2>
@@ -1166,9 +1178,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="charts__chart chart--p80  chart--blue">
 									  <div class="charts__chart chart--p60  chart--green">
 										 <div class="charts__chart chart--p80  chart--red"></div>
-									  </div><!-- /.charts__chart -->
-									</div><!-- /.charts__chart -->
-								  </div><!-- /.charts__chart -->
+									  </div>
+									</div>
+								  </div>
 								</div>
 							</div>
 							<div class="clearfix"> </div>
@@ -1182,8 +1194,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="charts">
 									<div class="charts__chart chart--p100 chart--sm">
 										<div class="charts__chart chart--p80  chart--grey">
-											<div class="charts__chart chart--p60  chart--yellow"></div><!-- /.charts__chart -->
-										</div><!-- /.charts__chart -->
+											<div class="charts__chart chart--p60  chart--yellow"></div>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -1272,9 +1284,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div class="clearfix"> </div>
-						<!-- pop-up-box -->  
+						 
 							<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
-						<!--//pop-up-box -->
+						
 						<div id="small-dialog" class="mfp-hide">
 							<iframe src="https://player.vimeo.com/video/9890147"></iframe>
 						</div>
@@ -1296,6 +1308,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</script>
 					</div>
 				</div>
+                                    
+                                    -->
+                                    
+                    <!--
+                             
 				<div class="col-md-3 agileinfo_news_original_grids_right">
 					<div class="w3layouts_add_market">
 						<img src="images/13.jpg" alt=" " class="img-responsive" />
@@ -1446,6 +1463,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</form>
 					</div>
 				</div>
+                                    
+                                    -->
+                                    
 				<div class="clearfix"> </div>
 			</div>
 		</div>
