@@ -1025,10 +1025,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
                             
-                                    -->
-                                    
-                                    
-   <!-- CORTE ENTRE DIVS -->                                 
+                                    -->                                                                 
+    <!-- CORTE ENTRE DIVS -->                                 
                                     
                                     
                                     <!--
@@ -1310,7 +1308,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
                                     
                                     -->
-                                    
+    <!-- CORTE ENTRE DIVS -->            
                     <!--
                              
 				<div class="col-md-3 agileinfo_news_original_grids_right">
