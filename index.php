@@ -60,6 +60,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 	});
 </script>
+<!-- Enlace de bootstrap para usar banderitas -->
+<link href="http://usrz.github.io/bootstrap-languages/languages.min.css" rel="stylesheet" type="text/css">
+
 <!-- start-smoth-scrolling -->
 </head>
 	
@@ -72,15 +75,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="w3layouts_header">
 						<li class="w3layouts_header_list">
 							<ul>
-								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<span class="caret"></span></a>
-									<div class="mega-dropdown-menu">
-										<ul class="dropdown-menu w3_dropdown">
-											<li><a href="#">English</a></li> 
-											<li><a href="#">Hindi</a></li>
-										</ul>              
-									</div>	
-								</li>
+                                                                
+                                                            
+                                                                
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<span class="caret"></span></a>				
+								<div class="dropdown-menu w3ls_vegetables_menu">
+									<ul>	
+                                                                            <li><a href="#"><li><span class="lang-sm lang-lbl-full" lang="es"></span></li></a></li>
+                                                                            <li><a href="#"><span class="lang-sm lang-lbl-full" lang="it"></span></a></li>
+                                                                            <li><a href="#"><span class="lang-sm lang-lbl-full" lang="en"></span></span></a></li>                                                                            
+									</ul>             
+								</div>
+							</li>
+                                                                
 								<li>
 									<i>|</i>
 								</li>
