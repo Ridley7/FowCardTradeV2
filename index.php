@@ -114,9 +114,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                 </div>
             </div>
-            
+
+
+            <!--ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR-->
             <!--
-ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR
             <div class="w3ls_header_middle">
                 <div class="container">
                     <div class="agileits_logo">
@@ -150,10 +151,10 @@ ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR
 
                 </div>                
             </div>
-            
-            -->
+-->
 
-         
+
+
             
                 <div class="w3ls_header_middle">
                         <div class="container">
@@ -179,14 +180,15 @@ ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR
                         </div>
                 </div>
             
-          
+           
         </div>
         <!-- //header -->
         <!-- navigation -->
+
+        
         <div class="trade_navigation">
             <div class="container">
                 <nav class="navbar nav_bottom">
-                    <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header nav_2">
                         <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
                             <span class="sr-only">Toggle navigation</span>
@@ -195,7 +197,6 @@ ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR
                             <span class="icon-bar"></span>
                         </button>
                     </div> 
-                    <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                         <nav class="wthree_nav">
                             <ul class="nav navbar-nav nav_1">
@@ -231,6 +232,8 @@ ESTE BLOQUE COMENTADO ES DE FRANKIE, ES DE PRUEBA, PERO NO SE PUEDE BORRAR
                 </nav>
             </div>
         </div>
+        
+        
         <!-- //navigation -->
         <!-- banner -->
         <div class="banner">
