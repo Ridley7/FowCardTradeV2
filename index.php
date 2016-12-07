@@ -103,6 +103,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </li>
                         </ul>
                     </div>
+                    <div class="w3l_header_right">
+                        <input type="text" class="log-in-input" placeholder="Username">
+                        <input type="password" class="log-in-input" placeholder="Password">
+                        <a href="#"><button type="button" class="btn btn-link">Log In</button></a>
+                                &nbsp 
+                        <a href="#"><button type="button" class="btn btn-link">Forgot something?</button></a>
+                    </div>
                     <!--
                         <div class="w3l_header_right">
                                 <h2><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+(000) 123 456 678</h2>
@@ -225,7 +232,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                     </div>				
                                 </li>
                                 <li><a href="service.html">Customer Service</a></li>
+                                <!--
                                 <li><a href="portfolio.html">Portfolio</a></li>
+                                -->
                             </ul>
                         </nav>
                     </div>
@@ -298,6 +307,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
         <!-- //banner -->
         <!-- banner-bottom -->
+        <!-- 
         <div class="banner-bottom">
             <div class="panel panel-default agile_panel">
                 <div class="panel-body agile_panel_body">
@@ -480,13 +490,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
             </div>
         </div>
+        
+        -->
+        
+        
         <!-- //banner-bottom -->
         <!-- news-original -->
+        
+        <!--
         <div class="news-original">
             <div class="container">
                 <div class="agileinfo_news_original_grids">
 
-                    <!-- 
+                    
                     
                         <div class="col-md-4 agileinfo_news_original_grids_left">
                                 <div class="agileits_newsletter">
@@ -1519,13 +1535,23 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                         </div>
                                 </div>
                                     
-                    -->
+                    
 
                     <div class="clearfix"> </div>
                 </div>
             </div>
         </div>
+        
+        -->
+        
         <!-- //news-original -->
+        <!-- ESTE ES NUESTRO "BODY" -->
+        
+        <br><br>
+        <h1 align="center">HOLA MUNDO</h1>
+        <br><br>
+        
+        <!-- // ESTE ES NUESTRO "BODY" -->
         <!-- follow-us -->
         <div class="follow-us">
             <div class="container">

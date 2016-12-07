@@ -38,7 +38,10 @@ input[type="submit"],.agileinfo_chat a,.w3l_login_form_bottom1 a,.w3_customer_em
 .w3ls_header_top {
     padding: .3em 0;
     background:#2C2B2B;
-	border-top: 3px solid #ff5000;
+    /*CABMIO DE COLOR*/
+	/*border-top: 3px solid #ff5000;*/
+    border-top: 4px solid purple;
+        
 }
 .w3layouts_header li{
 	display:inline-block;
@@ -141,7 +144,11 @@ option {
     background: #fff;
 }
 .trade_navigation {
-    background:#39bd00;
+    /*
+    *   AÑADIDO COLOR, quitar sin remordimientos
+    *background:#39bd00;
+    */
+    background: linear-gradient(to right, darkred, darkblue, darkgreen, black);
 }
 .navbar-nav > li {
     float: none;
@@ -235,7 +242,10 @@ option {
 }
 .w3_agile_banner_text h3{
 	font-size: 2em;
-    color: #212121;
+    /*-color: #212121;-*/
+    /*COLOR CAMBIADO miguel*/
+    
+    color: purple;
     line-height: 1.5em;
     width: 40%;
     font-weight: bold;
@@ -316,7 +326,9 @@ option {
 .w3_agile_banner_text h4{
 	text-transform: capitalize;
     font-size: 2.5em;
-    color: #fff;
+    /*-color: #fff;-*/
+    /*COLOR CAMBIADO Miguel*/
+    color: purple;
     text-align: center;
     margin: 9em 0 0;
     font-weight: bold;
@@ -4165,4 +4177,10 @@ div#stacked-graph .label {
 	.w3l_faq_grid {
 		margin: 1em 0 0;
 	}
+}
+/*ESTILOS AÑADIDOS*/
+.log-in-input {
+    background-color: #2C2B2B;
+    color: #FFF;
+    border-radius: 5px;
 }
