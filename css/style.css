@@ -164,13 +164,15 @@ option {
 .navbar-nav > li > a {
     padding:15px 28px;
     text-transform: capitalize;
-    color:#123901;
+    /*color:#123901;*/
+    color:#fff;
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background: none;
 }
 .nav > li > a:hover{
-    color: #fff;
+    /*color: #fff;*/
+    color:#123901;
 }
 .nav-tabs > li > a:hover{
 	background-color: #ff5000;

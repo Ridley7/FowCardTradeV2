@@ -168,6 +168,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="agileits_logo">
                                         <h1><a href="index.html"><span>Trade</span> Market<i>Trade anytime anywhere</i></a></h1>
                                 </div>
+                            <!-- Es una chapuza ya lo se, es una solución parcial para no perder el responsive -->
+                            <div class=" hidden-sm-up"> <br> </div>
                                 <div class="agileits_search">
                                         <form action="#" method="post">
                                                 <input name="Search" type="text" placeholder="Search" required="">
