@@ -58,6 +58,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 });
             });
         </script>
+        <!-- Icono del navegador -->
+        <link rel="shortcut icon" href="logo/favicon.png" />
         <!-- Enlace de bootstrap para usar banderitas -->
         <link href="http://usrz.github.io/bootstrap-languages/languages.min.css" rel="stylesheet" type="text/css">
         <!-- Enlace de bootstrap para usar Cards -->
@@ -1623,8 +1625,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                       <th scope="row">Larry</th>
                       <td>73%</td>
                       <td> <span class="lang-sm lang-lbl-full" lang="es"></span> </td>
-                      <td><img src="images/foil.png"></td>
-                      <td><img src="images/foil.png"></td>
+                      <td><img src="logo/card_textured.png"></td>
+                      <td><img src="logo/card_textured.png"></td>
                       <td>Esta carta mola mucho</td>
                       <td>50€</td>
                       <td>
@@ -1638,8 +1640,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                       <th scope="row">Curly</th>
                       <td>73%</td>
                       <td> <span class="lang-sm lang-lbl-full" lang="it"></span> </td>
-                      <td><img src="images/foil.png"></td>
-                      <td><img src="images/foil.png"></td>
+                      <td><img src="logo/card_fullart.png"></td>
+                      <td><img src="logo/card_promo.png"></td>
                       <td>Esta carta mola mucho</td>
                       <td>50€</td>
                       <td>
@@ -1653,8 +1655,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                       <th scope="row">Moe</th>
                       <td>73%</td>
                       <td> <span class="lang-sm lang-lbl-full" lang="en"></span> </td>
-                      <td><img src="images/foil.png"></td>
-                      <td><img src="images/foil.png"></td>
+                      <td><img src="logo/card_foil.png"></td>
+                      <td><img src="logo/card_foil.png"></td>
                       <td>Esta carta mola mucho</td>
                       <td>50€</td>
                       <td>
