@@ -60,7 +60,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </script>
         <!-- Enlace de bootstrap para usar banderitas -->
         <link href="http://usrz.github.io/bootstrap-languages/languages.min.css" rel="stylesheet" type="text/css">
-
+        <!-- Enlace de bootstrap para usar Cards -->
+        <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
         <!-- start-smoth-scrolling -->
     </head>
 
@@ -1550,9 +1551,129 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <!-- ESTE ES NUESTRO "BODY" -->
         
         <br><br>
-        <h1 align="center">HOLA MUNDO</h1>
+        <h1 align="center">HOLA MUNDO - CARDS</h1>
         <br><br>
+        <div class="container">
+            <div clas="row">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+                    <div class="card" style="max-width:319px;">
+        		<img src="images/card.jpg" alt="Card image"/>
+
+        		<div class="card-block">
+        			<h4 class="card-title">This is a title which goes furthemore</h4>
+        			<p class="card-text"></p>
+        		</div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+                    <div class="card" style="max-width:319px;">
+        		<img src="images/card.jpg" alt="Card image" width="246" height="160"/>
+
+        		<div class="card-block">
+        			<h4 class="card-title">This is a title which goes furthemore</h4>
+        			<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        		</div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+                    <div class="card" style="max-width:319px;">
+        		<img src="images/card.jpg" alt="Card image" width="246" height="160"/>
+
+        		<div class="card-block">
+        			<h4 class="card-title">This is a title which goes furthemore</h4>
+        			<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        		</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        <h1 align="center">HOLA MUNDO - TABLAS</h1>
+        <br><br>
+         <div class="container">
+            <div clas="row">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12"> 
+
+              <table class="table table-hover">
+                  <thead>
+                    <tr>
+                      <th>Vendedor</th>
+                      <th>Valoraci&oacute;n</th>
+                      <th>Idioma</th>
+                      <th>Estado</th>
+                      <th>Estilo</th>
+                      <th>Observaciones</th>
+                      <th>Precio</th>
+                      <th>Cantidad</th>
+                      <th>Comprar</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">Larry</th>
+                      <td>73%</td>
+                      <td> <span class="lang-sm lang-lbl-full" lang="es"></span> </td>
+                      <td><img src="images/foil.png"></td>
+                      <td><img src="images/foil.png"></td>
+                      <td>Esta carta mola mucho</td>
+                      <td>50€</td>
+                      <td>
+                          
+                          4
+                          
+                      </td>
+                      <td><button>Comprar</button></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Curly</th>
+                      <td>73%</td>
+                      <td> <span class="lang-sm lang-lbl-full" lang="it"></span> </td>
+                      <td><img src="images/foil.png"></td>
+                      <td><img src="images/foil.png"></td>
+                      <td>Esta carta mola mucho</td>
+                      <td>50€</td>
+                      <td>
+                          
+                          4
+                          
+                      </td>
+                      <td><button>Comprar</button></td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Moe</th>
+                      <td>73%</td>
+                      <td> <span class="lang-sm lang-lbl-full" lang="en"></span> </td>
+                      <td><img src="images/foil.png"></td>
+                      <td><img src="images/foil.png"></td>
+                      <td>Esta carta mola mucho</td>
+                      <td>50€</td>
+                      <td>
+                          
+                          4
+                          
+                      </td>
+                      <td><button>Comprar</button></td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+            </div>
+            </div>
+        </div>
         
+        <br><br>
+        <h1 align="center">HOLA MUNDO - FIN</h1>
+        <br><br>
         <!-- // ESTE ES NUESTRO "BODY" -->
         <!-- follow-us -->
         <div class="follow-us">
